@@ -2,7 +2,7 @@
   "name": "Saifullah.id",
   "short_name": "Saifullah",
   "display": "standalone",
-  "prefer_related_applications": false,
+  "prefer_related_applications": "false",
   "start_url": "https://www.saifullah.id",
   "scope": "/",
   "background_color": "#fff",
